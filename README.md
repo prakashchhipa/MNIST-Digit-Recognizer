@@ -33,6 +33,7 @@ Learning is being perofrmed using AdamOptimizer.
      - Pandas
      - Tensorflow
     
+    
 **Note for other Enthusiastic Contributor:**
 
 Most welcome to improvise the experiment with better better CNN Architctures.
