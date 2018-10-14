@@ -1,6 +1,5 @@
 import math as mt
 import numpy as np
-import matplotlib.pyplot as mtplt
 import pandas as pd
 import tensorflow as tflow
 from tensorflow.contrib.learn.python.learn.datasets.mnist import read_data_sets
